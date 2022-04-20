@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robert ( @magion33 )
-- 💻 I’m a full stack web developer
+- 💻 I’m a web developer
 - 🌱 Learning is my passion
 - 📫 Contact: kerlik.r@seznam.cz
 
